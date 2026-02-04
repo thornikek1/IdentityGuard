@@ -1,0 +1,13 @@
+Why it’s different:
+
+* Identity anchors are explicitly extracted and locked
+
+* Gemini governs decisions instead of blindly generating images
+
+* Refinement plans are evaluated for perceptibility and safety
+
+* A self-correction loop prevents both over-editing and no-change outputs
+
+* UI exposes intent, not anatomy
+
+* Safety failures terminate the pipeline instead of producing risky results
